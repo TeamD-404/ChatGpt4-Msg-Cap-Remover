@@ -13,5 +13,5 @@ ChatGPT Msg Cap Remover is a user script that allows users to use the GPT-4 with
 ## Installation
 
 1. Install a user script manager, such as [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [here](https://raw.githubusercontent.com/TeamD-404/ChatGpt4-Msg-Cap-Remover/blob/main/uncap.js) to copy and run this script in Tempmonkey .
+2. Click [here](https://raw.githubusercontent.com/TeamD-404/ChatGpt4-Msg-Cap-Remover/uncap.js) to copy and run this script in Tempmonkey .
 3. Once installed, visit [ChatGPT](https://chat.openai.com/) and enjoy using the GPT-4 Msg Cap Remover"!
